@@ -1,0 +1,2 @@
+# abdulrasaq
+Hello Potential buyers I am an expert mobile developer with over 7 years of experience working with both iOS and Android. I have developed and managed many projects, I also develop APIs in PHP and Swift hosted on AWS or Heroku with MySQL databases. I focus on writing clean, easy to read code that is both efficient and adaptable,  My number one goal 100% client satisfaction. I am very thorough and willing to do whatever is necessary to produce an excellent final product for the client. I can complete the required work with a very quick turnaround time.
